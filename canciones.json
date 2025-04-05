@@ -1,0 +1,58 @@
+{
+    "canciones": [
+      {
+        "id": 1,
+        "titulo": "Viento y Marea",
+        "artista": "La Marimba",
+        "duracion": "3:45",
+        "audio": "songs/viento-y-marea.mp3",
+        "portada": "covers/viento-y-marea.jpg",
+        "categoria": "playlists"
+      },
+      {
+        "id": 2,
+        "titulo": "Sombra del Sol",
+        "artista": "Los Pinares",
+        "duracion": "4:12",
+        "audio": "songs/sombra-del-sol.mp3",
+        "portada": "covers/sombra-del-sol.jpg",
+        "categoria": "playlists"
+      },
+      {
+        "id": 3,
+        "titulo": "Caminos de Fuego",
+        "artista": "Eterna",
+        "duracion": "3:30",
+        "audio": "songs/caminos-de-fuego.mp3",
+        "portada": "covers/caminos-de-fuego.jpg",
+        "categoria": "playlists"
+      },
+      {
+        "id": 4,
+        "titulo": "Podcast: Historias del Camino",
+        "artista": "Narradores del Sur",
+        "duracion": "25:00",
+        "audio": "podcasts/historias-del-camino.mp3",
+        "portada": "covers/historias-del-camino.jpg",
+        "categoria": "podcasts"
+      },
+      {
+        "id": 5,
+        "titulo": "Ríos de Luz",
+        "artista": "Aurora",
+        "duracion": "3:58",
+        "audio": "songs/rios-de-luz.mp3",
+        "portada": "covers/rios-de-luz.jpg",
+        "categoria": "albums"
+      },
+      {
+        "id": 6,
+        "titulo": "Eclipse Nocturno",
+        "artista": "Sombras",
+        "duracion": "4:20",
+        "audio": "songs/eclipse-nocturno.mp3",
+        "portada": "covers/eclipse-nocturno.jpg",
+        "categoria": "artistas"
+      }
+    ]
+  }
